@@ -1,4 +1,4 @@
-IMPLEMENTATION OF CONVOLUTIONAL NEURAL NETWORK (CNN) FOR CLASSIFICATION OF ILLEGAL ITEMS IN BAGGAGE X-RAY IMAGES
+**IMPLEMENTATION OF CONVOLUTIONAL NEURAL NETWORK (CNN) FOR CLASSIFICATION OF ILLEGAL ITEMS IN BAGGAGE X-RAY IMAGES**
 
 Objective: 
 The goal of this study is to develop and evaluate a Convolutional Neural
@@ -11,7 +11,7 @@ The dataset used, DvXray, consists of 16,000 pairs of X-ray images, totaling
 32,000 baggage X-ray images. This dataset includes 16,000 top-view baggage X-ray
 images and 16,000 side-view baggage X-ray images. Each image is labeled with the
 presence of illegal items and includes bounding box coordinates for each detected
-item. The dataset can be accessed from the official GitHub repository here.
+item. The dataset can be accessed from the official GitHub repository here: https://github.com/Mbwslib/DvXray.
 
 Methods: 
 Preprocessed X-ray images by converting them to grayscale and resizing to
